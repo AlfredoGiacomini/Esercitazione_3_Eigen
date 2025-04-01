@@ -1,1 +1,2 @@
-// Header file
+// Header filei
+int a = 0;
