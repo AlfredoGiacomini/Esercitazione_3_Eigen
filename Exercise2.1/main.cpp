@@ -52,6 +52,7 @@ int main()
     cout << "errore relativo x1 = " << errore_relativo(x1_qr, xsol) << endl;
     cout << "errore relativo x2 = " << errore_relativo(x2_qr, xsol) << endl;
     cout << "errore relativo x3 = " << errore_relativo(x3_qr, xsol) << endl;
+    cout << "fine programma" << endl;
         return 0;
 }
 
